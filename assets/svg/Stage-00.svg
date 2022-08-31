@@ -1,0 +1,63 @@
+<svg id="_00" data-name="00" xmlns="http://www.w3.org/2000/svg" class="check_status--svg" viewBox="0 0 712 752">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #c8c8c8;
+        stroke-width: 3px;
+        fill-rule: evenodd;
+      }
+      .check_status--svg{
+        width: inherit;
+        height: inherit;
+        display: block;
+        margin: 0 auto;
+      }
+
+      .cls-2 {
+        fill: #c8c8c8;
+      }
+
+      .cls-3, .cls-4 {
+        font-size: 6.525px;
+        font-family: "Kumbh Sans";
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        fill: #f9f9f9;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="_-e-Ellipse_2_copy_5" data-name="-e-Ellipse 2 copy 5" class="cls-1" d="M316.166,709.459A340.425,340.425,0,0,1,98.307,592.009M35.914,483.273A343.015,343.015,0,0,1,28.972,281.11M79.807,173.748A340.8,340.8,0,0,1,318.822,32.226M399.6,32.512A340.819,340.819,0,0,1,636.092,173.606m50.8,107.014a343,343,0,0,1-7.029,203.285m-61.3,107.076A340.406,340.406,0,0,1,396.335,709.869"/>
+  <g>
+    <g id="_6" data-name="6">
+      <circle id="Ellipse_1_copy_2" data-name="Ellipse 1 copy 2" class="cls-2" cx="51" cy="523.656" r="25"/>
+      <text id="_5" data-name="5" class="cls-3" transform="translate(44.656 533.13) scale(3.04 3.243)">5</text>
+    </g>
+    <g id="_5-2" data-name="5">
+      <circle id="Ellipse_1_copy_2-2" data-name="Ellipse 1 copy 2" class="cls-2" cx="356" cy="713.656" r="25"/>
+      <text id="_4" data-name="4" class="cls-3" transform="translate(348.656 723.13) scale(3.04 3.243)">4</text>
+    </g>
+    <g id="_4-2" data-name="4">
+      <circle id="Ellipse_1_copy_2-3" data-name="Ellipse 1 copy 2" class="cls-2" cx="662" cy="523.656" r="25"/>
+      <text id="_3" data-name="3" class="cls-3" transform="translate(655.655 533.13) scale(3.04 3.243)">3</text>
+    </g>
+    <g id="_3-2" data-name="3">
+      <circle id="Ellipse_1_copy" data-name="Ellipse 1 copy" class="cls-2" cx="656" cy="213.656" r="25"/>
+      <text id="_2" data-name="2" class="cls-3" transform="translate(648.655 223.13) scale(3.04 3.243)">2</text>
+    </g>
+    <g id="_2-2" data-name="2">
+      <circle id="_-e-Ellipse_1_copy_3" data-name="-e-Ellipse 1 copy 3" class="cls-2" cx="359" cy="35.656" r="25"/>
+      <text id="_1" data-name="1" class="cls-3" transform="translate(354.656 45.13) scale(3.04 3.243)">1</text>
+    </g>
+    <g id="_1-2" data-name="1">
+      <circle id="_-e-Ellipse_1_copy_2" data-name="-e-Ellipse 1 copy 2" class="cls-2" cx="51" cy="214" r="25"/>
+      <text id="_6-2" data-name="6" class="cls-4" transform="translate(44.656 223.13) scale(3.04 3.243)">6</text>
+    </g>
+  </g>
+</svg>

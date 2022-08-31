@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1370" height="100">
+    <defs>
+        <linearGradient id="wgae4rrg9a" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#DBEBE6"/>
+            <stop offset="100%" stop-color="#DEE0EE"/>
+        </linearGradient>
+    </defs>
+    <text fill="url(#wgae4rrg9a)" font-family="Kumbh Sans" font-size="80" font-weight="bold" transform="matrix(1.69933 0 0 1.69933 .909 100.13)">
+        DRYPDRYPDRYPDRYP
+    </text>
+</svg>

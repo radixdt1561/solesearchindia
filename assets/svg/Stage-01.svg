@@ -1,0 +1,73 @@
+<svg id="_00" data-name="00" xmlns="http://www.w3.org/2000/svg" class="check_status--svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 712 752">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c8c8c8;
+      }
+      .check_status--svg{
+        width: inherit;
+        height: inherit;
+        display: block;
+        margin: 0 auto;
+      }
+
+      .cls-2, .cls-3 {
+        font-size: 6.525px;
+        font-family: "Kumbh Sans";
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #f9f9f9;
+      }
+
+      .cls-4, .cls-5 {
+        fill: none;
+        stroke-width: 3px;
+        fill-rule: evenodd;
+      }
+
+      .cls-4 {
+        stroke: #c8c8c8;
+      }
+
+      .cls-5 {
+        stroke: #43be88;
+      }
+
+      .cls-6 {
+        fill: #43be88;
+      }
+    </style>
+  </defs>
+  <g>
+    <g id="_6" data-name="6">
+      <circle id="_-e-Ellipse_1_copy_2" data-name="-e-Ellipse 1 copy 2" class="cls-1" cx="51" cy="214" r="25"/>
+      <text id="_6-2" data-name="6" class="cls-2" transform="translate(44.656 223.13) scale(3.04 3.243)">6</text>
+    </g>
+    <g id="_5" data-name="5">
+      <circle id="Ellipse_1_copy_2" data-name="Ellipse 1 copy 2" class="cls-1" cx="51" cy="523.656" r="25"/>
+      <text id="_5-2" data-name="5" class="cls-3" transform="translate(44.656 533.13) scale(3.04 3.243)">5</text>
+    </g>
+    <g id="_4" data-name="4">
+      <circle id="Ellipse_1_copy_2-2" data-name="Ellipse 1 copy 2" class="cls-1" cx="356" cy="713.656" r="25"/>
+      <text id="_4-2" data-name="4" class="cls-3" transform="translate(348.656 723.13) scale(3.04 3.243)">4</text>
+    </g>
+    <g id="_3" data-name="3">
+      <circle id="Ellipse_1_copy_2-3" data-name="Ellipse 1 copy 2" class="cls-1" cx="662" cy="523.656" r="25"/>
+      <text id="_3-2" data-name="3" class="cls-3" transform="translate(655.655 533.13) scale(3.04 3.243)">3</text>
+    </g>
+    <g id="_2" data-name="2">
+      <circle id="Ellipse_1_copy" data-name="Ellipse 1 copy" class="cls-1" cx="656" cy="213.656" r="25"/>
+      <text id="_2-2" data-name="2" class="cls-3" transform="translate(648.655 223.13) scale(3.04 3.243)">2</text>
+    </g>
+  </g>
+  <path id="_-e-Ellipse_2" data-name="-e-Ellipse 2" class="cls-4" d="M316.166,709.459A340.425,340.425,0,0,1,98.307,592.009M35.914,483.273A343.015,343.015,0,0,1,28.972,281.11M399.6,32.512A340.819,340.819,0,0,1,636.092,173.606m50.8,107.014a343,343,0,0,1-7.029,203.285m-61.3,107.076A340.406,340.406,0,0,1,396.335,709.869,M79.807,173.748A340.8,340.8,0,0,1,318.822,32.226"/>
+  <path id="_-e-Ellipse_2_copy_3" data-name="-e-Ellipse 2 copy 3" class="cls-5" d="M399.6,32.512A340.819,340.819,0,0,1,636.092,173.606"/>
+  <circle id="_-e-Ellipse_1_copy" data-name="-e-Ellipse 1 copy" class="cls-6" cx="359" cy="35.656" r="25"/>
+  <image id="_-e-Vector_Smart_Object_copy_3" data-name="-e-Vector Smart Object copy 3" x="342" y="23" width="34" height="25" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAZCAYAAABU+vysAAABi0lEQVRIicWVrU4DQRSF7wJBYMDwBlgUASQ/hgQBD1CNaDAIEipISBCkBhIwBIPjAfhJSADLO4DBYQCDQVDoIdOZzW7nnt122+lykrNi5p57v0wmswLgPzwJ4BZWzwBmIgNRssZF5F5EZlNjn8oGMRB3IjLnrTeHVOngNCYiNwTC6LGsE4khltSOyKuILJZxUUcBPIDrDcBU6zBIMDTEFUUA3gFMx7UsHMojORAfaYhBggwDuFDjrT4BzPsZ1qR0iBhkAsCxu1BbACJW2KVN9kyNt/oCsJDVx3yuvcBpjzCRyzIZiGWSaQNpkuAJK+7gI9XF6hvASodsC+RFRa3qLJDhukonEGsZGQWyCqChWlgdsJDnfZWy+gWwTuqp48WKCzLVWNC5RurhelVIfabTG0VhdlRVjxA+iPGGaptoM1VXVbuJqmxQUZBuhgSHyAIR97AV1Tbp0zdI3kVkYncoGIjxLhnqa4/kgoNIzmOFgo9ernM3Uz4kEOehIIqAGJvBP+6duOzzL91uQP4ADu0s5KJHAyUAAAAASUVORK5CYII="/>
+</svg>
